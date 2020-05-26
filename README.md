@@ -1,2 +1,2 @@
 # Git ejemplo nuevo
-Este archivo expluca lo que hace el repositorio.
+Este archivo explica lo que hace el repositorio.
